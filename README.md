@@ -20,3 +20,6 @@ Encargados del proyecto
 
 
 [Licencia]
+
+
+[Agradecimientos]
