@@ -6,9 +6,9 @@ Es un proyecto dedicado al crecimiento de comunidad universitaria a través de u
 
 
 [Instalación]
-Requisitos
-Versión
-Encargados del proyecto
+-  Requisitos
+-  Versión
+-  Encargados del proyecto
 
 [Uso]
 
@@ -20,3 +20,6 @@ Encargados del proyecto
 
 
 [Licencia]
+
+
+[Agradecimientos]
